@@ -1,6 +1,5 @@
-My name is Gabriel R. Rizzoli, I like doing animations and I want to become a Web Developer.
-My email is gabriel.roy-rizzoli@hec.ca
+Travail pratique 2
 
-interet: l'équitation
-
-ou pas
+Gabriel Roy-Rizzoli
+2295331
+Conception et programmation de sites Web
