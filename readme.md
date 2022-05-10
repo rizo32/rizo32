@@ -1,4 +1,4 @@
-Travail pratique 2
+Introduction à Github
 
 Gabriel Roy-Rizzoli
 2295331
