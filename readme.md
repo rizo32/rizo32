@@ -1,5 +1,1 @@
-Introduction à Github
-
-Gabriel Roy-Rizzoli
-2295331
-Conception et programmation de sites Web
+Je m'appelle Gabriel Roy-Rizzoli (2295331), je m'intéresse au développement web, à l'animation 2D, aux jeux vidéos et l'art en général, et j'aimerais faire ma carrière en développement full-stack.
